@@ -1,8 +1,7 @@
 # GMAT-Score-Calculator
 
 
-Title: GMAT-Score-Calculator.
-Author: Kalpesh Shankar Sonawane.
+Author: Kalpesh Sonawane.
 
 Technology:
 1. HTML 5
